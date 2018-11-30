@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="amovie.arch.com.amovie.feature" >
+    package="com.arch.amovie.feature" >
 
     <application>
         <activity android:name=".MainActivity" >

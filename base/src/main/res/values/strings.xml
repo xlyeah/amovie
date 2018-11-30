@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">amovie</string>
+    <string name="bottom_hotMovie">正在热映</string>
+    <string name="bottom_preview">即将上映</string>
 </resources>

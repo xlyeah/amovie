@@ -1,4 +1,4 @@
-package amovie.arch.com.amovie.feature;
+package com.arch.amovie.feature;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

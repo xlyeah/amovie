@@ -6,7 +6,7 @@ android {
 
 
     defaultConfig {
-        applicationId "amovie.arch.com.amovie.app"
+        applicationId "com.arch.amovie.app"
         minSdkVersion project.minSdkVersion
         targetSdkVersion project.targetSdkVersion
         versionCode 1
