@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/feature_home">
+
+    <fragment
+        android:id="@+id/feature_home"
+        android:name="com.arch.amovie.feature.feature_home"
+        android:label="fragment_feature_home"
+        tools:layout="@layout/fragment_feature_home" />
+</navigation>
